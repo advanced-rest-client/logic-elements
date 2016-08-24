@@ -1,6 +1,6 @@
 {
   "name": "logic-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of elements for Advanced REST Client responsible for app logic and UI elements integration.",
   "keywords": [
     "web-components",
@@ -14,18 +14,21 @@
     "url": "git@github.com:advanced-rest-client/logic-elements.git"
   },
   "dependencies": {
-
+    "cookie-parser": "advanced-rest-client/cookie-parser#latest"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
     "The Advanced REST Client authors"
   ],
-  "license": "LICENSE.txt",
+  "license": "LICENSE.md",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
+  ],
+  "main": [
+    "logic-elements.html"
   ]
 }
