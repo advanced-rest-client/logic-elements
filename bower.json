@@ -14,7 +14,7 @@
     "url": "git@github.com:advanced-rest-client/logic-elements.git"
   },
   "dependencies": {
-    "cookie-parser": "advanced-rest-client/cookie-parser#latest"
+    "cookie-parser": "advanced-rest-client/cookie-parser#master"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
