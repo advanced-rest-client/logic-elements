@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "cookie-parser": "advanced-rest-client/cookie-parser#^1.0.9",
-    "chrome-app-filesystem": "advanced-rest-client/chrome-app-filesystem#^1.1.2",
     "filesystem-behavior": "advanced-rest-client/filesystem-behavior#^1.1.6"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
