@@ -22,7 +22,8 @@
     "app-dexie": "advanced-rest-client/app-dexie#^1.0.1",
     "app-types": "advanced-rest-client/app-types#^1.0.1",
     "file-reader": "advanced-rest-client/file-reader#^1.0.3",
-    "app-pouchdb-quick-search": "advanced-rest-client/app-pouchdb-quick-search#^1.0.1"
+    "app-pouchdb-quick-search": "advanced-rest-client/app-pouchdb-quick-search#^1.0.1",
+    "request-data-aware": "advanced-rest-client/request-data-aware#^1.0.2"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
