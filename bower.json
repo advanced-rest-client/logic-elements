@@ -26,7 +26,8 @@
     "request-data-aware": "advanced-rest-client/request-data-aware#^1.0.2",
     "arc-database": "advanced-rest-client/arc-database#^1.0.4",
     "connectivity-state": "advanced-rest-client/connectivity-state#^0.0.2",
-    "app-analytics": "advanced-rest-client/app-analytics#^1.0.2"
+    "app-analytics": "advanced-rest-client/app-analytics#^1.0.2",
+    "arc-models": "advanced-rest-client/arc-models#^1.0.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
