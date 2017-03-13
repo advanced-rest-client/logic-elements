@@ -17,7 +17,7 @@
     "cookie-parser": "advanced-rest-client/cookie-parser#^1.0.9",
     "filesystem-behavior": "advanced-rest-client/filesystem-behavior#^1.1.6",
     "web-socket": "advanced-rest-client/web-socket#^1.0.5",
-    "arc-definitions": "advanced-rest-client/arc-definitions#^1.0.1",
+    "arc-definitions": "advanced-rest-client/arc-definitions#^1.0.6",
     "uuid-generator": "advanced-rest-client/uuid-generator#^1.0.3",
     "app-dexie": "advanced-rest-client/app-dexie#^1.0.1",
     "app-types": "advanced-rest-client/app-types#^1.0.1",
