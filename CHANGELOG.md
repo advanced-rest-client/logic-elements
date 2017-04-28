@@ -1,3 +1,42 @@
+<a name="1.0.34"></a>
+## [1.0.34](https://github.com/advanced-rest-client/logic-elements/compare/1.0.7...v1.0.34) (2017-04-28)
+
+
+### New
+
+* [CI] Added new elements. ([efedb64ab7a286bc4f855f6800996c721e95fc83](https://github.com/advanced-rest-client/logic-elements/commit/efedb64ab7a286bc4f855f6800996c721e95fc83))
+* [CI] Added new elements. ([a3d6f123afac33cdfc9449a3e178251d456062e5](https://github.com/advanced-rest-client/logic-elements/commit/a3d6f123afac33cdfc9449a3e178251d456062e5))
+* [CI] Added new elements. ([d164a156ef8644f6536fd7e846d5cf192daee710](https://github.com/advanced-rest-client/logic-elements/commit/d164a156ef8644f6536fd7e846d5cf192daee710))
+* [CI] Added new elements. ([3bd59810a4976c69bbcfc9e9687acdba1db05e67](https://github.com/advanced-rest-client/logic-elements/commit/3bd59810a4976c69bbcfc9e9687acdba1db05e67))
+* [CI] Added new elements. ([1e46919b08a73f556e0da870b2119527a7a6a3c6](https://github.com/advanced-rest-client/logic-elements/commit/1e46919b08a73f556e0da870b2119527a7a6a3c6))
+* [CI] Added new elements. ([af4c8b26c3ffecd81b56b34f1168cc7969bda87e](https://github.com/advanced-rest-client/logic-elements/commit/af4c8b26c3ffecd81b56b34f1168cc7969bda87e))
+* [CI] Added new elements. ([b689f798ae678282e6d2e13d39e9fdda55cbefbd](https://github.com/advanced-rest-client/logic-elements/commit/b689f798ae678282e6d2e13d39e9fdda55cbefbd))
+* [CI] Added new elements. ([4820adb5f0bc6e6f737ec9482919f8d9a80041d8](https://github.com/advanced-rest-client/logic-elements/commit/4820adb5f0bc6e6f737ec9482919f8d9a80041d8))
+* [CI] Added new elements. ([ec9ad9327d6fc0c312fe0b2f574afc63b7839d75](https://github.com/advanced-rest-client/logic-elements/commit/ec9ad9327d6fc0c312fe0b2f574afc63b7839d75))
+* [CI] Added new elements. ([9e11aa6670e6a6990db9254d1425d70e1cd769e5](https://github.com/advanced-rest-client/logic-elements/commit/9e11aa6670e6a6990db9254d1425d70e1cd769e5))
+* [CI] Added new elements. ([5c37f11a79527192f6f84a4263055f4b72b84c60](https://github.com/advanced-rest-client/logic-elements/commit/5c37f11a79527192f6f84a4263055f4b72b84c60))
+* [CI] Added new elements. ([40c5a50efcac4f526a210752cca45c087fe69f29](https://github.com/advanced-rest-client/logic-elements/commit/40c5a50efcac4f526a210752cca45c087fe69f29))
+* [CI] Added new elements. ([3396c5006891a982671ae28019364d8ab7149b7a](https://github.com/advanced-rest-client/logic-elements/commit/3396c5006891a982671ae28019364d8ab7149b7a))
+* [CI] Added new elements. ([35934832575611edd7af6b533424ac4bc63367ca](https://github.com/advanced-rest-client/logic-elements/commit/35934832575611edd7af6b533424ac4bc63367ca))
+* [CI] Added new elements. ([4282ecc54698f5b284e977d49fe7aa6673b43956](https://github.com/advanced-rest-client/logic-elements/commit/4282ecc54698f5b284e977d49fe7aa6673b43956))
+* [CI] Added new elements. ([46dc60225462fa7b5e63c616e6ba0ec5354a5d1e](https://github.com/advanced-rest-client/logic-elements/commit/46dc60225462fa7b5e63c616e6ba0ec5354a5d1e))
+* [CI] Added new elements. ([618cb5bd0432308d2f091cef3a8eaea5e1b4a9c7](https://github.com/advanced-rest-client/logic-elements/commit/618cb5bd0432308d2f091cef3a8eaea5e1b4a9c7))
+* [CI] Added new elements. ([1355648a0368d4a65eba68d56e3e9c14e7a17de7](https://github.com/advanced-rest-client/logic-elements/commit/1355648a0368d4a65eba68d56e3e9c14e7a17de7))
+* [CI] Added new elements. ([18561952097833617c043d7a0bf1e969de6c23aa](https://github.com/advanced-rest-client/logic-elements/commit/18561952097833617c043d7a0bf1e969de6c23aa))
+* [CI] Added new elements. ([3bf0330ca46cf34b32619868ad01902ad4c836b4](https://github.com/advanced-rest-client/logic-elements/commit/3bf0330ca46cf34b32619868ad01902ad4c836b4))
+* [CI] Added new elements. ([39beee289e5b4b79f054b74d3076cae74b7bae31](https://github.com/advanced-rest-client/logic-elements/commit/39beee289e5b4b79f054b74d3076cae74b7bae31))
+* [CI] Added new elements. ([b83a903237ccceb739848989295050cb936af9f6](https://github.com/advanced-rest-client/logic-elements/commit/b83a903237ccceb739848989295050cb936af9f6))
+* [CI] Added new elements. ([e81431551aecca86ae0969a0d8222f19c1eda25d](https://github.com/advanced-rest-client/logic-elements/commit/e81431551aecca86ae0969a0d8222f19c1eda25d))
+* [CI] Added new elements. ([24ab1b859e9a214f48b8afc298796f441ace7182](https://github.com/advanced-rest-client/logic-elements/commit/24ab1b859e9a214f48b8afc298796f441ace7182))
+* Added new elements. Automated release. ([33db25ec76c6e1aac35df8277342d6df640c839e](https://github.com/advanced-rest-client/logic-elements/commit/33db25ec76c6e1aac35df8277342d6df640c839e))
+
+### Update
+
+* Added new element ([c2fb8d772e6a0cd4ac2a0a6bbe5dd19e0d659cf7](https://github.com/advanced-rest-client/logic-elements/commit/c2fb8d772e6a0cd4ac2a0a6bbe5dd19e0d659cf7))
+* removed RAML element from logic elements ([957995ec45194557c447caf418019a8692024793](https://github.com/advanced-rest-client/logic-elements/commit/957995ec45194557c447caf418019a8692024793))
+
+
+
 <a name="1.0.33"></a>
 ## [1.0.33](https://github.com/advanced-rest-client/logic-elements/compare/1.0.32...v1.0.33) (2017-04-28)
 
