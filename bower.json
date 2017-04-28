@@ -30,8 +30,7 @@
     "arc-models": "advanced-rest-client/arc-models#^1.0.1",
     "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.1.7",
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.1",
-    "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
-    "raml-json-enhance": "advanced-rest-client/raml-json-enhance#^0.1.11"
+    "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
