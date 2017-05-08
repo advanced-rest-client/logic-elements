@@ -30,7 +30,8 @@
     "arc-models": "advanced-rest-client/arc-models#^1.0.1",
     "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.1.7",
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.1",
-    "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4"
+    "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
+    "arc-polyfills": "advanced-rest-client/arc-polyfills#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
@@ -46,5 +47,8 @@
   ],
   "main": [
     "logic-elements.html"
-  ]
+  ],
+  "resolutions": {
+    "promise-polyfill": "^6.0.2"
+  }
 }
