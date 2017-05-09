@@ -32,7 +32,7 @@
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.1",
     "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
     "arc-polyfills": "advanced-rest-client/arc-polyfills#^0.1.1",
-    "web-unzip": "advanced-rest-client/web-unzip#^0.1.1"
+    "web-unzip": "advanced-rest-client/web-unzip#^0.1.2"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
