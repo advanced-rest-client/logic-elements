@@ -36,7 +36,8 @@
     "headers-support-behavior": "advanced-rest-client/headers-support-behavior#^0.1.1",
     "multipart-payload-transformer": "advanced-rest-client/multipart-payload-transformer#^0.1.1",
     "network-state": "advanced-rest-client/network-state#^0.1.1",
-    "bytes-counter": "advanced-rest-client/bytes-counter#^0.1.1"
+    "bytes-counter": "advanced-rest-client/bytes-counter#^0.1.1",
+    "authorization-data-saver": "advanced-rest-client/authorization-data-saver#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
@@ -54,6 +55,8 @@
     "logic-elements.html"
   ],
   "resolutions": {
-    "promise-polyfill": "^6.0.2"
+    "promise-polyfill": "^6.0.2",
+    "app-pouchdb": "^1.0.0",
+    "app-storage": "~1.0.0"
   }
 }
