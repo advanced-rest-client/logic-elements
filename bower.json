@@ -24,7 +24,7 @@
     "file-reader": "advanced-rest-client/file-reader#^1.0.3",
     "app-pouchdb-quick-search": "advanced-rest-client/app-pouchdb-quick-search#^1.0.5",
     "request-data-aware": "advanced-rest-client/request-data-aware#^1.0.2",
-    "arc-database": "advanced-rest-client/arc-database#^1.0.4",
+    "arc-database": "advanced-rest-client/arc-database#^1.0.11",
     "connectivity-state": "advanced-rest-client/connectivity-state#^0.0.2",
     "app-analytics": "advanced-rest-client/app-analytics#^1.0.16",
     "arc-models": "advanced-rest-client/arc-models#^1.0.1",
