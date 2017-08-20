@@ -1,3 +1,9 @@
+<a name="1.0.71"></a>
+## [1.0.71](https://github.com/advanced-rest-client/logic-elements/compare/1.0.70...1.0.71) (2017-08-20)
+
+
+
+
 <a name="1.0.70"></a>
 ## [1.0.70](https://github.com/advanced-rest-client/logic-elements/compare/1.0.69...v1.0.70) (2017-08-18)
 
