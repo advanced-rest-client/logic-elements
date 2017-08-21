@@ -40,7 +40,8 @@
     "variables-evaluator": "advanced-rest-client/variables-evaluator#^0.1.1",
     "url-history-saver": "advanced-rest-client/url-history-saver#^0.1.1",
     "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.2",
-    "request-saver": "advanced-rest-client/request-saver#^0.0.2"
+    "request-saver": "advanced-rest-client/request-saver#^0.0.2",
+    "cookie-jar": "advanced-rest-client/cookie-jar#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
