@@ -42,7 +42,8 @@
     "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.2",
     "request-saver": "advanced-rest-client/request-saver#^0.0.2",
     "cookie-jar": "advanced-rest-client/cookie-jar#^0.1.1",
-    "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1"
+    "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1",
+    "cookie-exchange": "advanced-rest-client/cookie-exchange#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
