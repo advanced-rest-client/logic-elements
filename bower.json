@@ -45,7 +45,7 @@
     "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1",
     "cookie-exchange": "advanced-rest-client/cookie-exchange#^0.1.1",
     "chrome-xhr-request": "advanced-rest-client/chrome-xhr-request#^0.1.1",
-    "chrome-socket-request": "advanced-rest-client/chrome-socket-request#^0.0.2"
+    "chrome-socket-request": "advanced-rest-client/chrome-socket-request#^0.0.3"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
@@ -67,6 +67,7 @@
     "app-pouchdb": "^1.0.0",
     "app-storage": "~1.0.0",
     "url": "^0.6.0",
-    "response-history-saver": "^0.0.4"
+    "response-history-saver": "^0.0.4",
+    "chrome-socket-request": "^0.0.3"
   }
 }
