@@ -39,7 +39,7 @@
     "variables-manager": "advanced-rest-client/variables-manager#^0.1.8",
     "variables-evaluator": "advanced-rest-client/variables-evaluator#^0.1.5",
     "url-history-saver": "advanced-rest-client/url-history-saver#^0.1.1",
-    "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.2",
+    "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.3",
     "request-saver": "advanced-rest-client/request-saver#^0.0.2",
     "cookie-jar": "advanced-rest-client/cookie-jar#^0.1.2",
     "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1",
@@ -66,6 +66,7 @@
     "promise-polyfill": "^6.0.2",
     "app-pouchdb": "^1.0.0",
     "app-storage": "~1.0.0",
-    "url": "^0.6.0"
+    "url": "^0.6.0",
+    "response-history-saver": "^0.0.3"
   }
 }
