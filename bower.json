@@ -41,7 +41,7 @@
     "url-history-saver": "advanced-rest-client/url-history-saver#^0.1.1",
     "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.2",
     "request-saver": "advanced-rest-client/request-saver#^0.0.2",
-    "cookie-jar": "advanced-rest-client/cookie-jar#^0.1.1",
+    "cookie-jar": "advanced-rest-client/cookie-jar#^0.1.2",
     "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1",
     "cookie-exchange": "advanced-rest-client/cookie-exchange#^0.1.1",
     "chrome-xhr-request": "advanced-rest-client/chrome-xhr-request#^0.1.1",
