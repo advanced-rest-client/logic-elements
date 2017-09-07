@@ -25,7 +25,7 @@
     "arc-database": "advanced-rest-client/arc-database#^1.0.11",
     "connectivity-state": "advanced-rest-client/connectivity-state#^0.0.2",
     "app-analytics": "advanced-rest-client/app-analytics#^1.0.16",
-    "arc-models": "advanced-rest-client/arc-models#^0.1.3",
+    "arc-models": "advanced-rest-client/arc-models#^0.1.4",
     "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.1.7",
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.1",
     "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
