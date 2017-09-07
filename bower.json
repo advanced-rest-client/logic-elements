@@ -45,7 +45,8 @@
     "chrome-connect": "advanced-rest-client/chrome-connect#^0.1.1",
     "cookie-exchange": "advanced-rest-client/cookie-exchange#^0.1.1",
     "chrome-xhr-request": "advanced-rest-client/chrome-xhr-request#^0.1.1",
-    "chrome-socket-request": "advanced-rest-client/chrome-socket-request#^0.0.4"
+    "chrome-socket-request": "advanced-rest-client/chrome-socket-request#^0.0.4",
+    "openable-panel-behavior": "advanced-rest-client/openable-panel-behavior#^0.1.1"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
