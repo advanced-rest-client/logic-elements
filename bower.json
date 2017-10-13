@@ -51,7 +51,7 @@
     "arc-data-export": "advanced-rest-client/arc-data-export#^0.1.6",
     "arc-data-import": "advanced-rest-client/arc-data-import#^0.1.3",
     "app-logger": "advanced-rest-client/app-logger#^0.1.1",
-    "arc-messages-service": "advanced-rest-client/arc-messages-service#^0.1.4"
+    "arc-messages-service": "advanced-rest-client/arc-messages-service#^0.1.5"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
