@@ -26,7 +26,7 @@
     "connectivity-state": "advanced-rest-client/connectivity-state#^0.0.2",
     "app-analytics": "advanced-rest-client/app-analytics#^1.1.1",
     "arc-models": "advanced-rest-client/arc-models#^0.1.10",
-    "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.1.7",
+    "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.2.1",
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.4",
     "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
     "arc-polyfills": "advanced-rest-client/arc-polyfills#^0.1.10",
@@ -79,6 +79,7 @@
     "arc-models": "^1.0.1",
     "request-saver": "^0.1.1",
     "fetch": "2.1.0-arc",
-    "socket-fetch": "2.0.0-rc2"
+    "socket-fetch": "2.0.0-rc2",
+    "oauth-authorization": "^0.2.1"
   }
 }
