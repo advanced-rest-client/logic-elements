@@ -48,7 +48,7 @@
     "chrome-socket-request": "advanced-rest-client/chrome-socket-request#^0.1.2",
     "openable-panel-behavior": "advanced-rest-client/openable-panel-behavior#^0.1.1",
     "legacyproject-related-requests": "advanced-rest-client/legacyproject-related-requests#^0.1.3",
-    "arc-data-export": "advanced-rest-client/arc-data-export#^0.1.7",
+    "arc-data-export": "advanced-rest-client/arc-data-export#^0.1.8",
     "arc-data-import": "advanced-rest-client/arc-data-import#^0.1.5",
     "app-logger": "advanced-rest-client/app-logger#^0.1.1",
     "arc-messages-service": "advanced-rest-client/arc-messages-service#^0.1.5",
