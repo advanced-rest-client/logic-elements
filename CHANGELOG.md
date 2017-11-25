@@ -1,3 +1,13 @@
+<a name="1.0.166"></a>
+## [1.0.166](https://github.com/advanced-rest-client/logic-elements/compare/1.0.165...1.0.166) (2017-11-25)
+
+
+### New
+
+* [CI] Added new elements. ([be9a2ce435d0bec06997bbb5b149cd3cacb7663c](https://github.com/advanced-rest-client/logic-elements/commit/be9a2ce435d0bec06997bbb5b149cd3cacb7663c))
+
+
+
 <a name="1.0.165"></a>
 ## [1.0.165](https://github.com/advanced-rest-client/logic-elements/compare/1.0.164...1.0.165) (2017-11-25)
 
