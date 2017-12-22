@@ -1,6 +1,6 @@
 {
   "name": "logic-elements",
-  "version": "1.0.173",
+  "version": "1.0.174",
   "license": "LICENSE.md",
   "description": "A set of elements for Advanced REST Client responsible for app logic and UI elements integration.",
   "devDependencies": {
