@@ -53,7 +53,7 @@
     "app-logger": "advanced-rest-client/app-logger#^0.1.1",
     "arc-messages-service": "advanced-rest-client/arc-messages-service#^0.1.5",
     "arc-title": "advanced-rest-client/arc-title#^0.0.2",
-    "polymer-styles-analyzer": "advanced-rest-client/polymer-styles-analyzer#^0.1.6"
+    "polymer-styles-analyzer": "advanced-rest-client/polymer-styles-analyzer#^0.1.7"
   },
   "homepage": "https://github.com/advanced-rest-client/logic-elements",
   "authors": [
