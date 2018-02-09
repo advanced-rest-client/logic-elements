@@ -36,7 +36,7 @@
     "network-state": "advanced-rest-client/network-state#^0.1.1",
     "bytes-counter": "advanced-rest-client/bytes-counter#^0.1.1",
     "authorization-data-saver": "advanced-rest-client/authorization-data-saver#^0.1.6",
-    "variables-manager": "advanced-rest-client/variables-manager#^0.1.14",
+    "variables-manager": "advanced-rest-client/variables-manager#^0.1.15",
     "variables-evaluator": "advanced-rest-client/variables-evaluator#^0.1.16",
     "url-history-saver": "advanced-rest-client/url-history-saver#^0.1.1",
     "response-history-saver": "advanced-rest-client/response-history-saver#^0.0.5",
