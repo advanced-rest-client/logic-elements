@@ -30,7 +30,7 @@
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.4",
     "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
     "arc-polyfills": "advanced-rest-client/arc-polyfills#^0.1.10",
-    "web-unzip": "advanced-rest-client/web-unzip#^0.1.3",
+    "web-unzip": "advanced-rest-client/web-unzip#^0.1.4",
     "headers-support-behavior": "advanced-rest-client/headers-support-behavior#^0.1.1",
     "multipart-payload-transformer": "advanced-rest-client/multipart-payload-transformer#^0.1.1",
     "network-state": "advanced-rest-client/network-state#^0.1.1",
