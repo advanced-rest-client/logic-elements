@@ -26,7 +26,7 @@
     "connectivity-state": "advanced-rest-client/connectivity-state#^0.0.2",
     "app-analytics": "advanced-rest-client/app-analytics#^1.1.1",
     "arc-models": "advanced-rest-client/arc-models#^0.1.18",
-    "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.2.14",
+    "oauth-authorization": "advanced-rest-client/oauth-authorization#^0.2.15",
     "clipboard-copy": "advanced-rest-client/clipboard-copy#^0.1.4",
     "api-console-ext-comm": "advanced-rest-client/api-console-ext-comm#^0.1.4",
     "arc-polyfills": "advanced-rest-client/arc-polyfills#^0.1.10",
